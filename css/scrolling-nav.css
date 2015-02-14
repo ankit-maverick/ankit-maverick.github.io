@@ -37,29 +37,43 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 90%;
-    padding-top: 150px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
-    background: #ddd;
+    background: #fff;
 }
 
 .blog-section {
     height: 90%;
-    padding-top: 150px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
-    background: #ccc;
+    background: #fff;
 }
 
 .services-section {
     height: 90%;
-    padding-top: 150px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
-    background: #ddd;
+    background: #fff;
 }
 
 .contact-section {
     height: 90%;
-    padding-top: 150px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
-    background: #ccc;
+    background: #fff;
 }
 
+a .fa {
+color: #555;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.row-top-bottom-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
