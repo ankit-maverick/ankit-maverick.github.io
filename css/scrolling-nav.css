@@ -47,16 +47,16 @@ of those sections to manage the look and feel of the site. */
 }
 
 .blog-section {
-    height: 95%;
-    padding-top: 5%;
+    height: 70%;
+    padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
-    background: #fff;
+    background: #bbb;
 }
 
 .projects-section {
-    height: 95%;
-    padding-top: 5%;
+    height: 125%;
+    padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
     background: #fff;
@@ -64,10 +64,17 @@ of those sections to manage the look and feel of the site. */
 
 .contact-section {
     height: 95%;
-    padding-top: 5%;
+    padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
     background: #fff;
+}
+
+.footer-section {
+    height: 5%;
+    text-align: center;
+    background: #111;
+    color: #fff;
 }
 
 a .fa {
