@@ -55,7 +55,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .projects-section {
-    height: 195%;
+    height: 200%;
     padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -103,3 +103,7 @@ margin-right: 10px;
     font-size: 18px;
 }
 
+.project-col-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+}
