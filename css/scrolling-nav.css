@@ -69,7 +69,8 @@ of those sections to manage the look and feel of the site. */
     padding-bottom: 5%;
     text-align: center;
     background: #ddd;
-    background-image: url(../img/countriesToLive.svg)
+    /*background-image: url(../img/countriesToLive.svg);
+*/
 }
 
 
