@@ -36,7 +36,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
-    height: 100%;
+    height: auto;
     padding-top: 10%;
     padding-bottom: 5%;
     text-align: center;
@@ -47,7 +47,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .blog-section {
-    height: 65%;
+    height: auto;
     padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -55,7 +55,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .projects-section {
-    height: 200%;
+    height: auto;
     padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -64,7 +64,7 @@ of those sections to manage the look and feel of the site. */
 
 
 .stuff-section {
-    height: 80%;
+    height: auto;
     padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -75,7 +75,7 @@ of those sections to manage the look and feel of the site. */
 
 
 .contact-section {
-    height: 60%;
+    height: auto;
     padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -83,7 +83,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .footer-section {
-    height: 5%;
+    height: auto;
     text-align: center;
     background: #111;
     color: #fff;
